@@ -85,7 +85,7 @@ st.markdown("""
 # LOAD RANDOM FOREST MODEL
 # -----------------------------------
 
-model = joblib.load("model/diabetes_model.pkl")
+model = joblib.load("Model/diabetes_model.pkl")
 
 # -----------------------------------
 # SIDEBAR NAVIGATION
